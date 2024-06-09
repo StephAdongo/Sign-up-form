@@ -1,0 +1,50 @@
+.container {
+    display: flex;
+    height: 600px;
+    width: 900px;
+}
+.image {
+     height: 600px;
+     width: 350px;
+}
+
+.form{
+     height: 600px;
+     width: 550px;
+     justify-content: space-around;
+}
+.main {
+    height:38px;
+    width: 410px;
+}
+.details {
+    height: 200px;
+    width:500px;
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    font-size: 12px;
+    
+}
+
+.left {
+    height: 200px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+}
+.right {
+    height: 200px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+}
+.log-in{
+    color: white;
+    background-color: green;
+}
+span{
+    color: green;
+}
+
+
